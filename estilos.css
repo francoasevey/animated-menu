@@ -55,8 +55,9 @@ img{
     color: #fff;
 }
 .textos h1{
-    font-size: 80px;
+    font-size: 110px;
     animation: moverDerecha 1s ease-in ;
+    font-family: 'Dancing Script', cursive;
 }
 .textos h2{
     font-size: 30px;
