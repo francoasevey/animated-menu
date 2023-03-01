@@ -16,6 +16,8 @@ nav{
 nav a{
     color: #fff;
     text-decoration: none;
+    font-family: 'Tilt Warp', cursive;
+    font-size: 25px;
 }
 .icono{
     position: relative;
