@@ -55,13 +55,14 @@ img{
     color: #fff;
 }
 .textos h1{
-    font-size: 110px;
+    font-size: 115px;
     animation: moverDerecha 1s ease-in ;
     font-family: 'Dancing Script', cursive;
 }
 .textos h2{
-    font-size: 30px;
+    font-size: 35px;
     animation: moverIzquierda 1s ease-in ;
+    font-family: 'Pacifico', cursive;
 }
 .textos a{
     display: inline-block;
