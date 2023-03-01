@@ -25,7 +25,8 @@ nav a{
     z-index: 100000000;
     animation: moverIzquierda 1s ease-in;
     */
-
+    font-family: 'Climate Crisis', cursive;
+    font-size: 25px;
 }
 header{
     background: #1E9600;
