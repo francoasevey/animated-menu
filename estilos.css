@@ -81,12 +81,18 @@ img{
     font-weight: 300;
     text-decoration: none;
     margin-top: 30px;
-    border: 1px solid #fff;
     width: 150px;
     border-radius: 3px;
     text-align: center;
     padding: 10px 0;
     animation: arriba 1s ease-in ;
+    background-color: rgb(255, 71, 4);
+    text-shadow:  rgb(0, 0, 0) 0 0.0em 0.80em;
+    box-shadow:rgb(253, 97, 0) 0 0.0em 0.60em;
+    border-radius: 50%;
+    border: 2px solid #ffffff;
+    font-family: 'Climate Crisis', cursive;
+    font-size: 17px;
 }
 .wave{
     height: 100px;
