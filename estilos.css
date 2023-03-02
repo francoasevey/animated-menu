@@ -94,6 +94,9 @@ img{
     font-family: 'Climate Crisis', cursive;
     font-size: 17px;
 }
+.textos a:hover{
+    text-shadow:  rgb(255, 255, 255) 0 0.0em 0.80em;
+}
 .wave{
     height: 100px;
     width: 100%;
